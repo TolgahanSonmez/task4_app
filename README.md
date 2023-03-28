@@ -6,6 +6,16 @@
 
 - Learn to use URLSession, RESTful API, Core Location and  Lottie animations well.
 
+**Technologhy and Structures**
+- URLSession
+- RESTful API
+- Core Animation
+- CollectionView
+- Auto layout
+- VIPER Pattern
+- Web services
+- Lottie
+ 
 ![screenshot-1](https://user-images.githubusercontent.com/107931897/228205413-8175b5f2-a9b3-4b38-8d15-f6e6a55baefb.png)
 
 
