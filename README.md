@@ -7,5 +7,6 @@
 - Learn to use URLSession, RESTful API, Core Location and  Lottie animations well.
 
 
+![screenshot-1](https://user-images.githubusercontent.com/107931897/228205413-8175b5f2-a9b3-4b38-8d15-f6e6a55baefb.png)
 
-![screenshot-1](https://user-images.githubusercontent.com/107931897/228204223-745f4b64-4229-4212-bf6a-dfc531918bab.png)
+
